@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: com.inspray.checkin.Main
+Class-Path: snmp6_1z.jar ZSDK_API.jar opencsv-2.2.jar log4j-1.2.17.jar c
+ ommons-io-2.2.jar httpcore-4.3.1.jar httpmime-4.3.2.jar usb4java-1.2.0.
+ jar commons-net-3.1.jar fastjson-1.2.71.jar commons-codec-1.8.jar commo
+ ns-lang3-3.4.jar jackson-core-2.2.3.jar bcpkix-jdk15on-1.48.jar bcprov-
+ jdk15on-1.48.jar jackson-databind-2.2.3.jar commons-validator-1.4.0.jar
+  jackson-annotations-2.2.3.jar libusb4java-1.2.0-osx-x86.jar libusb4jav
+ a-1.2.0-linux-arm.jar libusb4java-1.2.0-linux-x86.jar mysql-connector-j
+ ava-8.0.19.jar libusb4java-1.2.0-osx-x86_64.jar libusb4java-1.2.0-linux
+ -x86_64.jar
+

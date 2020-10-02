@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="CheckIn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CheckIn_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CheckIn.jar">
+        <element id="module-output" name="CheckIn" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+{
+  "url": "jdbc:mysql://localhost:3306/check_in?useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull",
+  "user": "root",
+  "password": "password",
+  "debug": true,
+  "ticketModel": "ticket.zpl",
+  "cardTop": "card_top.zpl",
+  "cardBack": "card_back.zpl"
+}
